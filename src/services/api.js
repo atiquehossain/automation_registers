@@ -21,3 +21,13 @@ export const fetchData = async () => {
     
 };
 
+// Function to post (upload excel file)
+
+export const uploadExcel = async(file) => {
+
+    try {
+        
+    } catch(e){
+
+    }
+};
